@@ -1,5 +1,6 @@
-# AnomalyDetection 三種做法
+# AnomalyDetection
 
+### AnomalyDetection 三種做法
 
 1. 無監督異常值檢測 Unsupervised Outlier Detection
 	訓練數據（未標記）包含正常和異常觀察。
