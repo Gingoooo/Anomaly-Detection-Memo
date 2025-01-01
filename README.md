@@ -1,4 +1,4 @@
-# AnomalyDetection
+# Anomaly Detection Memo
 
 ### AnomalyDetection 三種做法
 
